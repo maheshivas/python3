@@ -1,0 +1,22 @@
+Frameworks:
+    Django
+    Flask
+    FastAPI
+
+Libraries(Collection of Packages):
+    Numpy
+    Pandas
+
+SQL(Relational):
+    Postgres
+    MySQL
+    Sqlite
+
+NoSQL(Non-Relational):
+    document databases- MongoDB
+    key-value stores
+    column-oriented databases
+    graph databases
+
+Redis: In-memory key-value database
+Celery: asynchronous task queue
